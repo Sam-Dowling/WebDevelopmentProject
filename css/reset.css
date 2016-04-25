@@ -1,0 +1,32 @@
+
+#main{
+	margin:50px auto auto auto;
+	border:2px solid blue;
+	width:500px;
+	padding: 10px;
+	background-color: rgb(200,200,255);
+	clear:both;
+}
+#main a{
+	margin:5px;
+}
+h1, h2{
+	margin: 0px 0px 10px 5px;
+	color:darkblue;
+	font-weight: bold;
+}
+.right{
+	float:right;
+}
+
+#details{
+	width: 40%;
+	margin:0px auto 5px auto;
+}
+
+#errorbox{
+	width:60%;
+	border:1px solid red;
+	color:black;
+	padding:5px;
+}
